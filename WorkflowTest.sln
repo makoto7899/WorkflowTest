@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36202.13 d17.14
+VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AspNetMvc", "AspNetMvc\AspNetMvc.vbproj", "{8F5B0264-3C0E-41C3-A77A-80069E31DDF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet", "AspNet\AspNet.csproj", "{E9B5F9D1-8A57-4F12-96C8-5E63E67BA3FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8F5B0264-3C0E-41C3-A77A-80069E31DDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F5B0264-3C0E-41C3-A77A-80069E31DDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F5B0264-3C0E-41C3-A77A-80069E31DDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F5B0264-3C0E-41C3-A77A-80069E31DDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B5F9D1-8A57-4F12-96C8-5E63E67BA3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B5F9D1-8A57-4F12-96C8-5E63E67BA3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B5F9D1-8A57-4F12-96C8-5E63E67BA3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B5F9D1-8A57-4F12-96C8-5E63E67BA3FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
